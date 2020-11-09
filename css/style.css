@@ -462,7 +462,7 @@ a:hover {
 }
 
 input:checked+.tab-label .openIcon::after {
-    content: url('/images/minus.svg');
+    content: url('../images/minus.svg');
     top: -1px;
 }
 
