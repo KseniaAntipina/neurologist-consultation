@@ -20,11 +20,11 @@
 }
 
 .slick-prev-custom::after {
-    content: url('/images/prev.svg')
+    content: url('../images/prev.svg')
 }
 
 .slick-next-custom::after {
-    content: url('/images/next.svg')
+    content: url('../images/next.svg')
 }
 
 .slick-next-custom {
