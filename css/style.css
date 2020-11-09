@@ -79,7 +79,7 @@ a:hover {
 
 .stat {
     margin-top: 39px;
-    background: url(/images/planet.png) no-repeat;
+    background: url(../images/planet.png) no-repeat;
     background-position: center center;
     min-height: 510px;
     color: #fff;
@@ -365,7 +365,7 @@ a:hover {
 .pediatricNeurologist-img {
     flex: 1 1 50%;
     max-width: 100%;
-    background: url('/images/pediatric.png') no-repeat;
+    background: url('../images/pediatric.png') no-repeat;
     background-size: cover;
     border-radius: 13px;
 }
@@ -447,7 +447,7 @@ a:hover {
 }
 
 .tab-label .openIcon::after {
-    content: url('/images/plus.svg');
+    content: url('../images/plus.svg');
     text-align: center;
     position: absolute;
     left: 9px;
@@ -520,19 +520,19 @@ input:checked+.tab-label~.tab-content {
 }
 
 .genetic_tests_item.item1::before {
-    content: url('/images/genTest1.svg');
+    content: url('../images/genTest1.svg');
     position: absolute;
     left: 40px;
 }
 
 .genetic_tests_item.item2::before {
-    content: url('/images/getTest2.svg');
+    content: url('../images/getTest2.svg');
     position: absolute;
     left: 40px;
 }
 
 .genetic_tests_item.item3::before {
-    content: url('/images/getTest3.svg');
+    content: url('../images/getTest3.svg');
     position: absolute;
     left: 40px;
 }
